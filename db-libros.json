@@ -1,10 +1,16 @@
 {
   "usuarios": [
     {
-      "id": 1,
+      "id": "a1",
       "nombres": "James Gomez",
       "email": "james@gmail.com",
       "password": "123456"
+    },
+    {
+      "nombres": "Jhon Doe",
+      "email": "jhon@gmail.com",
+      "password": "123",
+      "id": "IPB7fSC"
     }
   ],
   "libros": [
@@ -78,6 +84,5 @@
       "descripcion": "Regreso del padre a la casa después de un largo viaje (Ilíada) para reunirse con su familia y vengarse de los pretendientes insolentes de su esposa que todavía espera la llegada de Ulises.",
       "precio": 42500
     }
-
   ]
 }
