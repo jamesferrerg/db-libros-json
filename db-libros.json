@@ -1,0 +1,83 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombres": "James Gomez",
+      "email": "james@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "libros": [
+    {
+      "id": 1,
+      "titulo": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "editorial": "Contemporanea",
+      "idioma": "Español",
+      "portada": "cien-a-soledad",
+      "descripcion": "La novela que lanzó a la fama a Gabriel García Márquez y donde el realismo mágico se ve reflejado en la historia de la familia Buendía y de Macondo.",
+      "precio": 34000
+    },
+    {
+      "id": 2,
+      "titulo": "La Odisea",
+      "autor": "Homero",
+      "editorial": "Penguin Clásicos",
+      "idioma": "Español",
+      "portada": "la-odisea",
+      "descripcion": "Regreso del padre a la casa después de un largo viaje (Ilíada) para reunirse con su familia y vengarse de los pretendientes insolentes de su esposa que todavía espera la llegada de Ulises.",
+      "precio": 42500
+    },
+    {
+      "id": 3,
+      "titulo": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "editorial": "Contemporanea",
+      "idioma": "Español",
+      "portada": "cien-a-soledad",
+      "descripcion": "La novela que lanzó a la fama a Gabriel García Márquez y donde el realismo mágico se ve reflejado en la historia de la familia Buendía y de Macondo.",
+      "precio": 34000
+    },
+    {
+      "id": 4,
+      "titulo": "La Odisea",
+      "autor": "Homero",
+      "editorial": "Penguin Clásicos",
+      "idioma": "Español",
+      "portada": "la-odisea",
+      "descripcion": "Regreso del padre a la casa después de un largo viaje (Ilíada) para reunirse con su familia y vengarse de los pretendientes insolentes de su esposa que todavía espera la llegada de Ulises.",
+      "precio": 42500
+    },
+    {
+      "id": 5,
+      "titulo": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "editorial": "Contemporanea",
+      "idioma": "Español",
+      "portada": "cien-a-soledad",
+      "descripcion": "La novela que lanzó a la fama a Gabriel García Márquez y donde el realismo mágico se ve reflejado en la historia de la familia Buendía y de Macondo.",
+      "precio": 34000
+    },
+    {
+      "id": 6,
+      "titulo": "La Odisea",
+      "autor": "Homero",
+      "editorial": "Penguin Clásicos",
+      "idioma": "Español",
+      "portada": "la-odisea",
+      "descripcion": "Regreso del padre a la casa después de un largo viaje (Ilíada) para reunirse con su familia y vengarse de los pretendientes insolentes de su esposa que todavía espera la llegada de Ulises.",
+      "precio": 42500
+    },
+    {
+      "id": 7,
+      "titulo": "La Odisea",
+      "autor": "Homero",
+      "editorial": "Penguin Clásicos",
+      "idioma": "Español",
+      "portada": "la-odisea",
+      "descripcion": "Regreso del padre a la casa después de un largo viaje (Ilíada) para reunirse con su familia y vengarse de los pretendientes insolentes de su esposa que todavía espera la llegada de Ulises.",
+      "precio": 42500
+    }
+
+  ]
+}
